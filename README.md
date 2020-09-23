@@ -1,5 +1,5 @@
 # test
 test FPM
 
-![alt text](https://github.com/shaoweijiang/test/blob/master/USAF_randomScan_pdot7_800_396_d2z835_3loops_pad1_09182020.tif)
+![alt text](https://static.toiimg.com/thumb/msid-67586673,width-800,height-600,resizemode-75,imgsize-3918697,pt-32,y_pad-40/67586673.jpg)
 
